@@ -6,3 +6,4 @@ context.addCustomMessageListener('urn:x-cast:com.example.castdata', function(cus
 	}
 });
 context.start();
+console.log("Hi from ChromeCast!");
