@@ -8,4 +8,4 @@ context.addCustomMessageListener('urn:x-cast:msg.yacinbm.cast', function(customE
 	}
 });
 context.start();
-console.log("Hi from ChromeCast!");
+console.log("App V0.1");
